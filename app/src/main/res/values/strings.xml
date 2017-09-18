@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PeopleApi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_people_found">No people found</string>
+    <string name="name">name :</string>
+    <string name="network_error">check internet connection</string>
+</resources>
